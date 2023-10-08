@@ -1,6 +1,3 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Xml.Linq;
-
 class Phonebook_Application
 {
     static void Main()
